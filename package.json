@@ -15,6 +15,7 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
+    "pretty": "prettier --write \"./**/*.{js,jsx,json}\"",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

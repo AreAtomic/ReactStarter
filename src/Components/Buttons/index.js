@@ -1,3 +1,5 @@
 import ButtonLarge from './ButtonLarge'
+import ButtonMedium from './ButtonMedium'
+import ButtonSmall from './ButtonSmall'
 
-export { ButtonLarge }
+export { ButtonLarge, ButtonMedium, ButtonSmall }
